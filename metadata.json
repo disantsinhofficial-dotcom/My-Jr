@@ -1,0 +1,6 @@
+{
+  "name": "JR Automation",
+  "description": "Local smart home controller for ESP32 switchboards with BLE provisioning, dynamic board layouts, fan regulator, and zero cloud dependencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
